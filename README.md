@@ -1,3 +1,3 @@
-# A Redux Application Using:
+# A React Application Using:
 - Google's YouTube API
 - Lodash for search throttling 
